@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PlayAudioTest</string>
+    <string name="start">开始</string>
+    <string name="pause">暂停</string>
+    <string name="stop">停止</string>
+    <string name="playVideo">播放预设视频</string>
+    <string name="start_video">开始</string>
+    <string name="pause_video">暂停</string>
+    <string name="replay_video">重新播放</string>
+</resources>
